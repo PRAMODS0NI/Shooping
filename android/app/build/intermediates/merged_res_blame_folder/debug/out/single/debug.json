@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-merged_res-30:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-main-32:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-merged_res-30:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-main-32:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-merged_res-30:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-main-32:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher2.png.flat",
+        "source": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-main-32:/mipmap-xxxhdpi/ic_launcher2.png"
+    },
+    {
+        "merged": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-merged_res-30:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-main-32:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-main-32:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-merged_res-30:/mipmap-xhdpi_ic_launcher.jpeg.flat",
+        "source": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-main-32:/mipmap-xhdpi/ic_launcher.jpeg"
+    },
+    {
+        "merged": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-merged_res-30:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-main-32:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-merged_res-30:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-main-32:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.project_shopping.app-merged_res-30:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.project_shopping.app-main-32:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-merged_res-30:/mipmap-xxhdpi_ic_launcher.jpeg.flat",
+        "source": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-main-32:/mipmap-xxhdpi/ic_launcher.jpeg"
+    },
+    {
+        "merged": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-merged_res-30:/mipmap-hdpi_ic_launcher.jpeg.flat",
+        "source": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-main-32:/mipmap-hdpi/ic_launcher.jpeg"
+    },
+    {
+        "merged": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-merged_res-30:/mipmap-mdpi_ic_launcher2.png.flat",
+        "source": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-main-32:/mipmap-mdpi/ic_launcher2.png"
+    },
+    {
+        "merged": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-merged_res-30:/drawable_rn_edit_text_material.xml.flat",
+        "source": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-main-32:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.project_shopping.app-merged_res-30:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.project_shopping.app-main-32:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-merged_res-30:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-main-32:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.project_shopping.app-merged_res-30:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.project_shopping.app-main-32:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-merged_res-30:/mipmap-xhdpi_ic_launcher2.png.flat",
+        "source": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-main-32:/mipmap-xhdpi/ic_launcher2.png"
+    },
+    {
+        "merged": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-merged_res-30:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-main-32:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher.jpeg.flat",
+        "source": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-main-32:/mipmap-xxxhdpi/ic_launcher.jpeg"
+    },
+    {
+        "merged": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-main-32:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-merged_res-30:/mipmap-xxhdpi_ic_launcher2.png.flat",
+        "source": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-main-32:/mipmap-xxhdpi/ic_launcher2.png"
+    },
+    {
+        "merged": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-merged_res-30:/mipmap-hdpi_ic_launcher2.png.flat",
+        "source": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-main-32:/mipmap-hdpi/ic_launcher2.png"
+    },
+    {
+        "merged": "com.project_shopping.app-merged_res-30:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.project_shopping.app-main-32:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-merged_res-30:/mipmap-mdpi_ic_launcher.jpeg.flat",
+        "source": "/home/pramod/.gradle/daemon/7.5.1/com.project_shopping.app-main-32:/mipmap-mdpi/ic_launcher.jpeg"
+    },
+    {
+        "merged": "com.project_shopping.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.project_shopping.app-main-32:/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]
